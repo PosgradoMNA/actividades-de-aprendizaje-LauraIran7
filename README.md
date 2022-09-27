@@ -5,3 +5,6 @@ Aqui estarán mis actividades de cada semana
 Nombre: Laura Irán González Ojeda
 
 Matrícula: A01794099
+
+* Python for Data Science (IBM): Modulos 1 al 3 - [A01794099_Python_for_data_science_Modules1_3.ipynb](A01794099_Python_for_data_science_Modules1_3.ipynb)
+* Python for Data Science (IBM): Modulo 4 - [A01794099_Python_for_data_science_Module_4.ipynb](A01794099_Python_for_data_science_Module_4.ipynb)
