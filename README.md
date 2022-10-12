@@ -6,7 +6,10 @@ Nombre: Laura Irán González Ojeda
 
 Matrícula: A01794099
 
+**Python for Data Science (IBM)*
 * Python for Data Science (IBM): Modulos 1 al 3 - [A01794099_Python_for_data_science_Modules1_3.ipynb](A01794099_Python_for_data_science_Modules1_3.ipynb)
 * Python for Data Science (IBM): Modulo 4 - [A01794099_Python_for_data_science_Module_4.ipynb](A01794099_Python_for_data_science_Module_4.ipynb)
 * Python for Data Science (IBM): Modulo 5 - [A01794099_Python_for_data_science_Module_5.ipynb](A01794099_Python_for_data_science_Module_5.ipynb)
 
+**Data Analysis with Python (IBM)**
+* Data Analysis with Python (IBM): Módulo 1 - [A01794099_Data_Analysis_with_Python_Module_1.ipynb](A01794099_Data_Analysis_with_Python_Module_1.ipynb)
