@@ -6,12 +6,12 @@ Nombre: Laura Irán González Ojeda
 
 Matrícula: A01794099
 
-##Actividades
+**Actividades:**
 * Semana 3 - Actividad 1 - [Semana3_Actividad1.ipynb](Semana3_Actividad1.ipynb)
 * Actividad Semanal - 5 : Repaso Transformación y reducción de dimensiones - [Reduccion_dimensiones_A01794099.ipynb](Reduccion_dimensiones_A01794099.ipynb)
 
 
-##Cursos
+**Cursos:**
 **Python for Data Science (IBM)**
 * Python for Data Science (IBM): Modulos 1 al 3 - [A01794099_Python_for_data_science_Modules1_3.ipynb](A01794099_Python_for_data_science_Modules1_3.ipynb)
 * Python for Data Science (IBM): Modulo 4 - [A01794099_Python_for_data_science_Module_4.ipynb](A01794099_Python_for_data_science_Module_4.ipynb)
