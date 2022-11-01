@@ -9,6 +9,7 @@ Matrícula: A01794099
 **Actividades:**
 * Semana 3 - Actividad 1 - [Semana3_Actividad1.ipynb](Semana3_Actividad1.ipynb)
 * Actividad Semanal - 5 : Repaso Transformación y reducción de dimensiones - [Reduccion_dimensiones_A01794099.ipynb](Reduccion_dimensiones_A01794099.ipynb)
+* Actividad Semanal - 6: Visualización - [ActividadSemanal_6_Visualizacion_A01794099.ipynb](ActividadSemanal_6_Visualizacion_A01794099.ipynb)
 
 
 **Cursos:**
