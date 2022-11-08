@@ -23,3 +23,4 @@ Matrícula: A01794099
 * Data Analysis with Python (IBM): Módulo 2 - [A01794099_Data_Analysis_with_Python_Module_2.ipynb](A01794099_Data_Analysis_with_Python_Module_2.ipynb)
 * Data Analysis with Python (IBM): Módulo 3 - [A01794099_Data_Analysis_with_Python_Module_3.ipynb](A01794099_Data_Analysis_with_Python_Module_3.ipynb)
 * Data Analysis with Python (IBM): Módulo 4 - [A01794099_Data_Analysis_with_Python_Module_4.ipynb](A01794099_Data_Analysis_with_Python_Module_4.ipynb)
+* Data Analysis with Python (IBM): Módulo 5 - [A01794099_Data_Analysis_with_Python_Module_5.ipynb](A01794099_Data_Analysis_with_Python_Module_5.ipynb)
