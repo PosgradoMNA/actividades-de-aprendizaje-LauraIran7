@@ -7,7 +7,7 @@ Nombre: Laura Irán González Ojeda
 Matrícula: A01794099
 
 **Actividades:**
-* Actividad Semanal - 5 : Repaso Transformación y reducción de dimensiones - [Reduccion_dimensiones_A01794099.ipynb](Reduccion_dimensiones_A01794099.ipynb)
+* Actividad Semanal - 5 : Repaso Transformación y reducción de dimensiones - [Reduccion_dimensiones_A01794099.ipynb](Actividades/Reduccion_dimensiones_A01794099.ipynb)
 * Actividad Semanal - 6: Visualización - [ActividadSemanal_6_Visualizacion_A01794099.ipynb](ActividadSemanal_6_Visualizacion_A01794099.ipynb)
 
 
